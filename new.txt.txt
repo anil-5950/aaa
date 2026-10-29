@@ -1,2 +1,6 @@
 hello GitHub
+<<<<<<< HEAD
 hi abhi
+
+welcome to web
+>>>>>>> feature1
